@@ -1,0 +1,2 @@
+# kiritodb
+Lightweight database implementation
